@@ -9,10 +9,11 @@ Software-engineering class 정리노트
 <br/>
 
 * [중간고사 대비 정리](./소프트웨어공학_중간고사_대비정리.md)
-* 기말고사...
+* [기말고사 대비 정리](./소프트웨어공학_기말고사_대비정리.md)
 
 <br/>
 
 * [과제 1 - 다이어그램 그리기](./homework/se0407_박상민.mdj)
-
 * [과제 2 - 테스트케이스 Junit 실습](./homework/se0510_박상민)
+* [과제 3 - 액티비티 네트워크 그리기](./homework/se0609_박상민.md)
+* [과제 4 - 깃 실습](https://github.com/sanggoe/MyGit)
